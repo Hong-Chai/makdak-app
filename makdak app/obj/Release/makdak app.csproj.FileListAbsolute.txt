@@ -1,0 +1,15 @@
+G:\Загрузки G\makdak app\makdak app\bin\Release\makdak app.exe.config
+G:\Загрузки G\makdak app\makdak app\bin\Release\makdak app.exe
+G:\Загрузки G\makdak app\makdak app\bin\Release\makdak app.pdb
+G:\Загрузки G\makdak app\makdak app\obj\Release\makdak app.csproj.AssemblyReference.cache
+G:\Загрузки G\makdak app\makdak app\obj\Release\makdak app.csproj.SuggestedBindingRedirects.cache
+G:\Загрузки G\makdak app\makdak app\obj\Release\makdak_app.Admin.resources
+G:\Загрузки G\makdak app\makdak app\obj\Release\makdak_app.complain.resources
+G:\Загрузки G\makdak app\makdak app\obj\Release\makdak_app.Form1.resources
+G:\Загрузки G\makdak app\makdak app\obj\Release\makdak_app.Order.resources
+G:\Загрузки G\makdak app\makdak app\obj\Release\makdak_app.Order_popup.resources
+G:\Загрузки G\makdak app\makdak app\obj\Release\makdak_app.Properties.Resources.resources
+G:\Загрузки G\makdak app\makdak app\obj\Release\makdak app.csproj.GenerateResource.cache
+G:\Загрузки G\makdak app\makdak app\obj\Release\makdak app.csproj.CoreCompileInputs.cache
+G:\Загрузки G\makdak app\makdak app\obj\Release\makdak app.exe
+G:\Загрузки G\makdak app\makdak app\obj\Release\makdak app.pdb

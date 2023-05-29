@@ -1,0 +1,26 @@
+C:\SHP\macdak app dir\makdak app\makdak app\bin\Debug\makdak app.exe.config
+C:\SHP\macdak app dir\makdak app\makdak app\bin\Debug\makdak app.exe
+C:\SHP\macdak app dir\makdak app\makdak app\bin\Debug\makdak app.pdb
+C:\SHP\macdak app dir\makdak app\makdak app\obj\Debug\makdak_app.Form1.resources
+C:\SHP\macdak app dir\makdak app\makdak app\obj\Debug\makdak_app.Properties.Resources.resources
+C:\SHP\macdak app dir\makdak app\makdak app\obj\Debug\makdak app.csproj.GenerateResource.cache
+C:\SHP\macdak app dir\makdak app\makdak app\obj\Debug\makdak app.csproj.CoreCompileInputs.cache
+C:\SHP\macdak app dir\makdak app\makdak app\obj\Debug\makdak app.exe
+C:\SHP\macdak app dir\makdak app\makdak app\obj\Debug\makdak app.pdb
+C:\SHP\macdak app dir\makdak app\makdak app\obj\Debug\makdak app.csproj.AssemblyReference.cache
+C:\SHP\macdak app dir\makdak app\makdak app\obj\Debug\makdak_app.complain.resources
+G:\Загрузки G\makdak app\makdak app\bin\Debug\makdak app.exe.config
+G:\Загрузки G\makdak app\makdak app\bin\Debug\makdak app.exe
+G:\Загрузки G\makdak app\makdak app\bin\Debug\makdak app.pdb
+G:\Загрузки G\makdak app\makdak app\obj\Debug\makdak app.csproj.AssemblyReference.cache
+G:\Загрузки G\makdak app\makdak app\obj\Debug\makdak app.csproj.SuggestedBindingRedirects.cache
+G:\Загрузки G\makdak app\makdak app\obj\Debug\makdak_app.complain.resources
+G:\Загрузки G\makdak app\makdak app\obj\Debug\makdak_app.Form1.resources
+G:\Загрузки G\makdak app\makdak app\obj\Debug\makdak_app.Properties.Resources.resources
+G:\Загрузки G\makdak app\makdak app\obj\Debug\makdak app.csproj.GenerateResource.cache
+G:\Загрузки G\makdak app\makdak app\obj\Debug\makdak app.csproj.CoreCompileInputs.cache
+G:\Загрузки G\makdak app\makdak app\obj\Debug\makdak app.exe
+G:\Загрузки G\makdak app\makdak app\obj\Debug\makdak app.pdb
+G:\Загрузки G\makdak app\makdak app\obj\Debug\makdak_app.Order.resources
+G:\Загрузки G\makdak app\makdak app\obj\Debug\makdak_app.Order_popup.resources
+G:\Загрузки G\makdak app\makdak app\obj\Debug\makdak_app.Admin.resources
